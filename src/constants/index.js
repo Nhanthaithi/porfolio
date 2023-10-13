@@ -203,7 +203,7 @@ import {
         },
       ],
       image: twitter,
-      source_code_link: "https://github.com/https://github.com/Nhanthaithi/client-twitter-express-ts/tree/develop/MahjongTileScorer",
+      source_code_link: "https://github.com/Nhanthaithi/client-twitter-express-ts/tree/develop",
       project_link_image: github,
     },
     {
@@ -221,7 +221,7 @@ import {
         },
       ],
       image: twitter,
-      source_code_link: "https://github.com/https://github.com/Thaithinhan/TWITTER-NESTJS/tree/dev",
+      source_code_link: "https://github.com/Thaithinhan/TWITTER-NESTJS/tree/dev",
       project_link_image: github,
     },
   ];
