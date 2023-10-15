@@ -125,7 +125,7 @@ import {
       company_name: "University of Economic Hochiminh City",
       icon: cdnis,
       iconBg: "#383E56",
-      date: "August 2008 - May 2022",
+      date: "August 2008 - May 2012",
       points: [
         "Auditing and Accountant",
       ],
